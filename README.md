@@ -9,4 +9,4 @@ In 2024, the camp will be held at Isik University, and will take place between t
 ## Resources
 All files in the Documents folder were created by collecting from other sources. Only minor changes have been made to suit the content of the camp. You can access the original sources from the Table of Contents file.
 
-You can find more information in our website: https://isikieee.com.tr/ 
+You can find more information on our website: https://isikieee.com.tr/ 
